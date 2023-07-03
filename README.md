@@ -4,7 +4,7 @@ The Payroll Management System is a Java-based application that provides a user-f
 <br>
 
 ## Features
-<hr>
+
 - User Login: The application allows users to log in with a username and password to access the payroll management functionalities.
 - Employee Management: Users can add new employees, modify employee details, delete employee records, and view a list of all employees.
 - Secure Storage: Employee records are stored in a text file, ensuring data persistence and easy retrieval.
@@ -13,7 +13,7 @@ The Payroll Management System is a Java-based application that provides a user-f
 <br>
 
 ## Getting Started
-<hr>
+
 To get started with the Payroll Management System, follow these steps:
 
 - Prerequisites: Make sure you have Java Development Kit (JDK) installed on your machine.
@@ -35,14 +35,14 @@ java payroll
 <br>
 
 ## Contributing
-<hr>
+
 
 - Contributions to the Payroll Management System are welcome! If you find any issues or have suggestions for improvements, please open an issue in this repository or submit a pull request.
 <br>
 <br>
 
 ## Connect with me
-<hr>
+
 
 - [GitHub](https://github.com/PerumallaDharan)
 - [LinkedIn](https://www.linkedin.com/in/perumalla-dharan-481167208/)
