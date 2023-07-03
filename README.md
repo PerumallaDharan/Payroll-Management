@@ -5,6 +5,7 @@ The Payroll Management System is a Java-based application that provides a user-f
 
 ## Features
 <hr>
+
 - User Login: The application allows users to log in with a username and password to access the payroll management functionalities.
 - Employee Management: Users can add new employees, modify employee details, delete employee records, and view a list of all employees.
 - Secure Storage: Employee records are stored in a text file, ensuring data persistence and easy retrieval.
